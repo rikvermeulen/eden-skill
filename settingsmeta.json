@@ -1,0 +1,16 @@
+{
+    "skillMetadata": {
+        "sections": [
+            {
+                "name": "Settings",
+                "fields": [
+                    {
+                        "name": "Authorize",
+                        "type": "oauth",
+                        "value": 4
+                    }
+                ]
+            }
+        ]
+    }
+}
